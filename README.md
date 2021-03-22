@@ -22,4 +22,9 @@ https://www.hackingwithswift.com/read/1/1/setting-up
 ## Swift topics covered in this project
 1. ViewControllers, storyboards, FileManager class
 2. Use Bundle.main.resourcepath! to access static content file in project.
-3. 
+3. Add a DetailViewController to the project to display each user selected image.
+4. UIImageView component in DetailViewController
+5. Use Auto Layout Contraints
+6. Use interface builder to connect the UI to a controller.
+7. Use the Embed NavigationController to navigate between UITableViewController (Image List) and UIDetailViewController (image)
+
