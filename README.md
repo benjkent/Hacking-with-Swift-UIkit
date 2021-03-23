@@ -27,4 +27,5 @@ https://www.hackingwithswift.com/read/1/1/setting-up
 5. Use Auto Layout Contraints
 6. Use interface builder to connect the UI to a controller.
 7. Use the Embed NavigationController to navigate between UITableViewController (Image List) and UIDetailViewController (image)
-
+8. Use the Navigation Bar to display a title and image name
+9. Use Large titles: An Apple design guidline
