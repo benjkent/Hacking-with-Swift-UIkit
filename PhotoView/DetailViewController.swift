@@ -13,9 +13,10 @@ class DetailViewController: UIViewController {
     
     var selectedImage: String?
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         title = selectedImage
         
         // overrides the navigationControllers behavior for this controller

@@ -26,6 +26,7 @@ class ViewController: UITableViewController {
                 pictures.append(item)
             }
         }
+        pictures.sort()
     }
 
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -45,7 +46,10 @@ class ViewController: UITableViewController {
             
             // success! Set its selectedImage property
             vc.selectedImage = pictures[indexPath.row]
-            
+            //TODO: send image string and count to detail view controller as
+            // a single string. 
+            //vc.selectedImageIndex = indexPath.row
+            //vc.totalImages = pictures.count
             // push it onto the navigation controller
             navigationController?.pushViewController(vc, animated: true)
         }

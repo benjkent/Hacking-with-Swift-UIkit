@@ -4,9 +4,11 @@
 * It uses UIkit with storyboards
 
 ## Purpose
-* Display a list of photos by name
-* When a user selects an item a new screen presents the photo
-* User can touch selected photo to view without navigation
+* Display a list of photos by name.
+* When a user selects an item a new screen presents the photo.
+* User can touch selected photo to view hide navigation bar.
+* Use Navigation to return to the main list of data.
+* Add application context to the Navigation bar.
 
 ### Coding overview
 * Loading data from a static content file.
@@ -32,5 +34,7 @@ https://www.hackingwithswift.com/read/1/1/setting-up
 7. Use the Embed NavigationController to navigate between UITableViewController (Image List) and UIDetailViewController (image)
 8. Use the Navigation Bar to display a title and image name
 9. Use Large titles: An Apple design guidline
-10. Modifying the Navbar to display (  picture # of ##)
-11. Sort the list of image titles from data to display
+### Project Challenges:
+* Adjust the font size of the image titles to a larger size.
+* Modifying the Navbar to display (  picture # of ##)
+* Sort the list of image titles from data to display.
