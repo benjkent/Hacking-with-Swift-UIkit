@@ -8,11 +8,14 @@
 * When a user selects an item a new screen presents the photo
 * User can touch selected photo to view without navigation
 
-### Coding abstract
+### Coding overview
 * Loading data from a static content file.
-* Using IOS built-in navigation
-* Touch disable navigation for one screen or view only 
-* Working with table data 
+* IOS built-in embeded navigation controller
+* Hide & show navigation bar with touch 
+* Introduce Apple design guidline: Large titles
+* Display data in a table view
+* Show details of a table item
+* Alter elements in Navigaition bar
 
 ### Credit
 * Hackingwithswift
@@ -29,3 +32,5 @@ https://www.hackingwithswift.com/read/1/1/setting-up
 7. Use the Embed NavigationController to navigate between UITableViewController (Image List) and UIDetailViewController (image)
 8. Use the Navigation Bar to display a title and image name
 9. Use Large titles: An Apple design guidline
+10. Modifying the Navbar to display (  picture # of ##)
+11. Sort the list of image titles from data to display
