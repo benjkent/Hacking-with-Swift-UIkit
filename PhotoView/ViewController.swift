@@ -49,7 +49,7 @@ class ViewController: UITableViewController {
             //TODO: send image string and count to detail view controller as
             // a single string. 
             vc.imageTitle = "Image \(indexPath.row + 1) of \(pictures.count)"
-            //vc.totalImages = pictures.count
+            
             // push it onto the navigation controller
             navigationController?.pushViewController(vc, animated: true)
         }
