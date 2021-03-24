@@ -47,6 +47,7 @@
 		747A885B260947D3003140DF /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
 		747A885C260947D3003140DF /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
 		747A88682609584A003140DF /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		7491FFA5260BEF0300FC79E5 /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 		747A883026091733003140DF = {
 			isa = PBXGroup;
 			children = (
+				7491FFA5260BEF0300FC79E5 /* Images */,
 				747A885126093733003140DF /* README.md */,
 				747A883B26091733003140DF /* PhotoView */,
 				747A883A26091733003140DF /* Products */,
