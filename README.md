@@ -39,6 +39,8 @@ https://www.hackingwithswift.com/read/1/1/setting-up
 * Modifying the Navbar to display (  picture # of ##)
 * Sort the list of image titles from data to display.
 ### Solution Preview
-| viewController | detailController |
-| :---------------  | :----------------  |
-| <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewNav.png"> |
+| viewController | detailController | detailController |
+| :---------------  | :----------------  | :----------------  |
+|                         |                           | Nav Hidden       |
+| :---------------  | :----------------  | :----------------  |
+| <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewNav.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewFocus.png" |

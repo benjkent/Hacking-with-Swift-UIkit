@@ -26,6 +26,7 @@
 		747A88692609584A003140DF /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747A88682609584A003140DF /* DetailViewController.swift */; };
 		7491FFAB260BF39000FC79E5 /* viewController.png in Resources */ = {isa = PBXBuildFile; fileRef = 7491FFA8260BF39000FC79E5 /* viewController.png */; };
 		7491FFAC260BF39000FC79E5 /* detailViewNav.png in Resources */ = {isa = PBXBuildFile; fileRef = 7491FFA9260BF39000FC79E5 /* detailViewNav.png */; };
+		7491FFB1260BF93E00FC79E5 /* detailViewFocus.png in Resources */ = {isa = PBXBuildFile; fileRef = 7491FFB0260BF93E00FC79E5 /* detailViewFocus.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		747A88682609584A003140DF /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		7491FFA8260BF39000FC79E5 /* viewController.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = viewController.png; sourceTree = "<group>"; };
 		7491FFA9260BF39000FC79E5 /* detailViewNav.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = detailViewNav.png; sourceTree = "<group>"; };
+		7491FFB0260BF93E00FC79E5 /* detailViewFocus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = detailViewFocus.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 		7491FFA7260BF33800FC79E5 /* screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				7491FFB0260BF93E00FC79E5 /* detailViewFocus.png */,
 				7491FFA9260BF39000FC79E5 /* detailViewNav.png */,
 				7491FFA8260BF39000FC79E5 /* viewController.png */,
 			);
@@ -185,6 +188,7 @@
 				747A8865260947D3003140DF /* nssl0033.jpg in Resources */,
 				7491FFAC260BF39000FC79E5 /* detailViewNav.png in Resources */,
 				747A8861260947D3003140DF /* nssl0051.jpg in Resources */,
+				7491FFB1260BF93E00FC79E5 /* detailViewFocus.png in Resources */,
 				747A885F260947D3003140DF /* nssl0091.jpg in Resources */,
 				747A8864260947D3003140DF /* nssl0043.jpg in Resources */,
 				747A8866260947D3003140DF /* nssl0034.jpg in Resources */,
