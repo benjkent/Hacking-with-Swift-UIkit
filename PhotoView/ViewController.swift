@@ -26,6 +26,7 @@ class ViewController: UITableViewController {
                 pictures.append(item)
             }
         }
+        // Sorting the data based on file name
         pictures.sort()
     }
 
@@ -43,13 +44,10 @@ class ViewController: UITableViewController {
         
         // try loading the "Detail" viewController and typecast it to be the DetailViewController
         if let vc = storyboard?.instantiateViewController(identifier: "Detail") as? DetailViewController {
-            
             // success! Set its selectedImage property
             vc.selectedImage = pictures[indexPath.row]
-            //TODO: send image string and count to detail view controller as
-            // a single string. 
+            // Set the imageTitle property
             vc.imageTitle = "Image \(indexPath.row + 1) of \(pictures.count)"
-            
             // push it onto the navigation controller
             navigationController?.pushViewController(vc, animated: true)
         }
