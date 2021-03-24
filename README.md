@@ -40,4 +40,4 @@ https://www.hackingwithswift.com/read/1/1/setting-up
 * Sort the list of image titles from data to display.
 ### Solution Preview
 ![Main: viewController](https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png )
-
+![Detail-screen: detailController](https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewNav.png)
