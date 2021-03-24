@@ -41,6 +41,6 @@ https://www.hackingwithswift.com/read/1/1/setting-up
 ### Solution Preview
 | viewController | detailController | detailController |
 | :---------------  | :----------------  | :----------------  |
-|                         |                           | Nav Hidden       |
+|                         |                           | Nav Hidden      |
 | :---------------  | :----------------  | :----------------  |
-| <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewNav.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewFocus.png" |
+| <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewNav.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewFocus.png" >|
