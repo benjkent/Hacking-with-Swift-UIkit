@@ -38,8 +38,8 @@ https://www.hackingwithswift.com/read/1/1/setting-up
 * Adjust the font size of the image titles to a larger size.
 * Modifying the Navbar to display (  picture # of ##)
 * Sort the list of image titles from data to display.
-### Solution Preview
-| viewController | detailViewController | detailController |
+### Solution Preview:
+| viewController | detailViewController | detailViewController |
 | :---------------:  | :----------------:  | :----------------:  |
 |                          |                            | Nav Hidden       |
 | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewNav.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewFocus.png" >|
