@@ -42,6 +42,3 @@ https://www.hackingwithswift.com/read/1/1/setting-up
 | viewController | detailController |
 | :---------------  | :----------------  |
 | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewNav.png"> |
-
-![Main: viewController](https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png )
-![Detail-screen: detailController](https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewNav.png)
