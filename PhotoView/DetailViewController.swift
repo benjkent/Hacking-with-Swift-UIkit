@@ -12,12 +12,12 @@ class DetailViewController: UIViewController {
     @IBOutlet var imageView: UIImageView!
     
     var selectedImage: String?
-    
+    var imageTitle: String = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        title = selectedImage
+        title = imageTitle
         
         // overrides the navigationControllers behavior for this controller
         navigationItem.largeTitleDisplayMode = .never
