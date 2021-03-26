@@ -4,9 +4,9 @@
 * It uses UIkit with storyboards
 
 ## Purpose
-* Display a list of photos by name.
-* When a user selects an item a new screen presents the photo.
-* User can touch selected photo to view hide navigation bar.
+* Display a list of elements by file name from a file.
+* When a user selects an item a new screen diplays the photo.
+* User can touch selected photo to view hide the navigation bar.
 * Use Navigation to return to the main list of data.
 * Add application context to the Navigation bar.
 
@@ -39,6 +39,7 @@ https://www.hackingwithswift.com/read/1/1/setting-up
 * Modifying the Navbar to display (  picture # of ##)
 * Sort the list of image titles from data to display.
 ### Solution Preview:
+
 | viewController | detailViewController | detailViewController |
 | :---------------:  | :----------------:  | :----------------:  |
 |                          |                            | Nav Hidden       |

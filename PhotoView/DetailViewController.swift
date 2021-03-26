@@ -23,7 +23,8 @@ class DetailViewController: UIViewController {
         navigationItem.largeTitleDisplayMode = .never
         
         if let imageToLoad = selectedImage {
-            imageView.image = UIImage(named: imageToLoad)
+            // add extension back so the correct image file is loaded
+            imageView.image = UIImage(named: "\(imageToLoad).jpg")
         }
     }
 
