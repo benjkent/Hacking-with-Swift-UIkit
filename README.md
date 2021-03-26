@@ -38,6 +38,7 @@ https://www.hackingwithswift.com/read/1/1/setting-up
 * Adjust the font size of the image titles to a larger size.
 * Modifying the Navbar to display (  picture # of ##)
 * Sort the list of image titles from data to display.
+* Create a function to remove the image file extentions (.jpg) from the list view.
 ### Solution Preview:
 
 | viewController | detailViewController | detailViewController |
