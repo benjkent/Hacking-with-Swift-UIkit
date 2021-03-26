@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7442C938260D862D00B7D6A9 /* viewController.png in Resources */ = {isa = PBXBuildFile; fileRef = 7442C937260D862D00B7D6A9 /* viewController.png */; };
+		7442C93D260D87B900B7D6A9 /* viewController.png in Resources */ = {isa = PBXBuildFile; fileRef = 7442C93C260D87B900B7D6A9 /* viewController.png */; };
 		747A883D26091733003140DF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747A883C26091733003140DF /* AppDelegate.swift */; };
 		747A883F26091733003140DF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747A883E26091733003140DF /* SceneDelegate.swift */; };
 		747A884126091733003140DF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747A884026091733003140DF /* ViewController.swift */; };
@@ -30,7 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7442C937260D862D00B7D6A9 /* viewController.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = viewController.png; path = ../../viewController.png; sourceTree = "<group>"; };
+		7442C93C260D87B900B7D6A9 /* viewController.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = viewController.png; sourceTree = "<group>"; };
 		747A883926091733003140DF /* PhotoView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotoView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		747A883C26091733003140DF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		747A883E26091733003140DF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -120,7 +120,7 @@
 		7491FFA7260BF33800FC79E5 /* screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				7442C937260D862D00B7D6A9 /* viewController.png */,
+				7442C93C260D87B900B7D6A9 /* viewController.png */,
 				7491FFBE260C059100FC79E5 /* detailViewController.png */,
 				7491FFB6260C055100FC79E5 /* detailViewControllerHidden.png */,
 			);
@@ -188,10 +188,10 @@
 				7491FFB9260C055100FC79E5 /* detailViewControllerHidden.png in Resources */,
 				747A8865260947D3003140DF /* nssl0033.jpg in Resources */,
 				747A8861260947D3003140DF /* nssl0051.jpg in Resources */,
+				7442C93D260D87B900B7D6A9 /* viewController.png in Resources */,
 				747A885F260947D3003140DF /* nssl0091.jpg in Resources */,
 				747A8864260947D3003140DF /* nssl0043.jpg in Resources */,
 				747A8866260947D3003140DF /* nssl0034.jpg in Resources */,
-				7442C938260D862D00B7D6A9 /* viewController.png in Resources */,
 				747A885D260947D3003140DF /* nssl0049.jpg in Resources */,
 				747A8862260947D3003140DF /* nssl0041.jpg in Resources */,
 				747A8863260947D3003140DF /* nssl0042.jpg in Resources */,
