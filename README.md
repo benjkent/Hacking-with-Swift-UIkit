@@ -54,6 +54,6 @@ https://www.hackingwithswift.com/read/3/1/about-technique-projects
 |                          |                            | Nav Hidden       |
 | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewControllerHidden.png" >|
 | detailViewController | detailViewController | | |
-| NavBar barButtonSystemItem| popoverPresentationController | also sharing the image name| |
+| NavBar barButtonSystemItem| popoverPresentationController | sharing image name| |
 | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/detailViewController-UIActivity.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/detailViewController-UIActivityShow.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/detailViewController-UIActivity-imageTitle.png"> | |
 
