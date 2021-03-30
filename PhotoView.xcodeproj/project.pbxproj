@@ -28,6 +28,7 @@
 		748CA9B326139DF400064F36 /* detailViewController-UIActivityShow.png in Resources */ = {isa = PBXBuildFile; fileRef = 748CA9B126139DF400064F36 /* detailViewController-UIActivityShow.png */; };
 		748CA9B426139DF400064F36 /* detailViewController-UIActivity.png in Resources */ = {isa = PBXBuildFile; fileRef = 748CA9B226139DF400064F36 /* detailViewController-UIActivity.png */; };
 		748CA9B72613BF0200064F36 /* detailViewController-UIActivity-imageTitle.png in Resources */ = {isa = PBXBuildFile; fileRef = 748CA9B62613BF0200064F36 /* detailViewController-UIActivity-imageTitle.png */; };
+		748CA9BE2613DA3E00064F36 /* viewController-UIActivity-recommend.png in Resources */ = {isa = PBXBuildFile; fileRef = 748CA9BD2613DA3E00064F36 /* viewController-UIActivity-recommend.png */; };
 		7491FFB9260C055100FC79E5 /* detailViewControllerHidden.png in Resources */ = {isa = PBXBuildFile; fileRef = 7491FFB6260C055100FC79E5 /* detailViewControllerHidden.png */; };
 		7491FFBF260C059100FC79E5 /* detailViewController.png in Resources */ = {isa = PBXBuildFile; fileRef = 7491FFBE260C059100FC79E5 /* detailViewController.png */; };
 /* End PBXBuildFile section */
@@ -57,6 +58,7 @@
 		748CA9B126139DF400064F36 /* detailViewController-UIActivityShow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "detailViewController-UIActivityShow.png"; sourceTree = "<group>"; };
 		748CA9B226139DF400064F36 /* detailViewController-UIActivity.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "detailViewController-UIActivity.png"; sourceTree = "<group>"; };
 		748CA9B62613BF0200064F36 /* detailViewController-UIActivity-imageTitle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "detailViewController-UIActivity-imageTitle.png"; sourceTree = "<group>"; };
+		748CA9BD2613DA3E00064F36 /* viewController-UIActivity-recommend.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "viewController-UIActivity-recommend.png"; sourceTree = "<group>"; };
 		7491FFB6260C055100FC79E5 /* detailViewControllerHidden.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = detailViewControllerHidden.png; sourceTree = "<group>"; };
 		7491FFBE260C059100FC79E5 /* detailViewController.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = detailViewController.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -126,6 +128,7 @@
 		7491FFA7260BF33800FC79E5 /* screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				748CA9BD2613DA3E00064F36 /* viewController-UIActivity-recommend.png */,
 				748CA9B62613BF0200064F36 /* detailViewController-UIActivity-imageTitle.png */,
 				748CA9B226139DF400064F36 /* detailViewController-UIActivity.png */,
 				748CA9B126139DF400064F36 /* detailViewController-UIActivityShow.png */,
@@ -209,6 +212,7 @@
 				747A884926091734003140DF /* LaunchScreen.storyboard in Resources */,
 				748CA9B72613BF0200064F36 /* detailViewController-UIActivity-imageTitle.png in Resources */,
 				747A884626091734003140DF /* Assets.xcassets in Resources */,
+				748CA9BE2613DA3E00064F36 /* viewController-UIActivity-recommend.png in Resources */,
 				7491FFBF260C059100FC79E5 /* detailViewController.png in Resources */,
 				747A8860260947D3003140DF /* nssl0045.jpg in Resources */,
 				747A884426091733003140DF /* Main.storyboard in Resources */,
