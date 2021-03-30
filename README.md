@@ -37,6 +37,7 @@ https://www.hackingwithswift.com/read/3/1/about-technique-projects
 8. Use the Navigation Bar to display a title and image name
 9. Use Large titles: An Apple design guidline
 10. UIActivityViewController: allows application to share or interact with other applications.
+11. Editing the "info.plist" file. Adding "Privacy - Photo Library Additions Usage Description" to allow user to accept or decline the application to process the request.
 ### Project Challenges:
 * Adjust the font size of the image titles to a larger size.
 * Modifying the Navbar to display (  picture # of ##)
