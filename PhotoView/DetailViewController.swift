@@ -44,7 +44,11 @@ class DetailViewController: UIViewController {
             print("No image found.")
             return
         }
-        let vc = UIActivityViewController(activityItems: [image], applicationActivities: [])
+        guard let pictureTitle = selectedImage else {
+            print("no title for image.")
+            return
+        }
+        let vc = UIActivityViewController(activityItems: [image, pictureTitle], applicationActivities: [])
         vc.popoverPresentationController?.barButtonItem = navigationItem.rightBarButtonItem
         present(vc, animated: true)
     }

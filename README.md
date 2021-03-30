@@ -44,7 +44,9 @@ https://www.hackingwithswift.com/read/3/1/about-technique-projects
 * Sort the list of image titles from data to display.
 * Create a function to remove the image file extentions (.jpg) from the list view.
 * Use UIActivityViewController to allow sharing with other IOS applictions. 
-1. Save image to Photos. 
+* Save image to Photos.
+* Add the image name to the list of items shared.
+* Add a bar button item to the main view controller to recommend app to others.
 ### Solution Preview:
 
 | viewController | detailViewController | detailViewController |
@@ -52,6 +54,6 @@ https://www.hackingwithswift.com/read/3/1/about-technique-projects
 |                          |                            | Nav Hidden       |
 | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewControllerHidden.png" >|
 | detailViewController | detailViewController | | |
-| NavBar barButtonSystemItem| popoverPresentationController | | |
-| <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/detailViewController-UIActivity.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/detailViewController-UIActivityShow.png"> | | |
+| NavBar barButtonSystemItem| popoverPresentationController | also sharing the image name| |
+| <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/detailViewController-UIActivity.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/detailViewController-UIActivityShow.png"> | <img src=" "> | |
 
