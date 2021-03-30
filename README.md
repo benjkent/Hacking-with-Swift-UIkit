@@ -50,10 +50,9 @@ https://www.hackingwithswift.com/read/3/1/about-technique-projects
 ### Solution Preview:
 
 | viewController | detailViewController | detailViewController | detailViewController |
-| :---------------:  | :----------------:  | :----------------:  | :--------------|
-|                          |                            | Nav Hidden       | NavBAr barButoonSystemItem |
-| <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewControllerHidden.png" >|
-| <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/detailViewController-UIActivity.png"> |
+| :---------------:  | :----------------:  | :----------------:  | :--------------: |
+|                          |                            | Nav Hidden       | NavBar barButtonSystemItem |
+| <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/viewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewController.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit/blob/main/screenshots/detailViewControllerHidden.png" > | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/detailViewController-UIActivity.png"> |
 | detailViewController | detailViewController | viewController | |
 | popoverPresentationController | sharing image name|  recommend text | |
 | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/detailViewController-UIActivityShow.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/detailViewController-UIActivity-imageTitle.png"> | <img src="https://github.com/benjkent/Hacking-with-Swift-UIkit-01-imageViewer/blob/main/screenshots/viewController-UIActivity-recommend.png"> | |
